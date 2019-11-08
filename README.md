@@ -1,5 +1,6 @@
 # MarathonRaceApp
-User Story: 
+User Story
+
 A sports company has hired you to write an application that would simulate a
 marathon race between interesting groups of participants. They could be slow as a tortoise, as
 fast as a hare, and anything in between. The runners differ in their speed and how often they need

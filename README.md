@@ -1,6 +1,6 @@
 # MarathonRaceApp
-Final Project: Marathon race runners
-User Story: A sports company has hired you to write an application that would simulate a
+User Story: 
+A sports company has hired you to write an application that would simulate a
 marathon race between interesting groups of participants. They could be slow as a tortoise, as
 fast as a hare, and anything in between. The runners differ in their speed and how often they need
 to rest. Some may be slow and never rest; others may run fast but lose steam quickly and rest a
